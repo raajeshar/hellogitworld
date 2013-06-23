@@ -1,3 +1,5 @@
 Hello I am Brent Beer acting as GitHub Student
 
 This is a lovely workshop
+
+GitHub Student is taking over.
