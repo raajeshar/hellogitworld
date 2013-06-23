@@ -1,0 +1,3 @@
+githubstudent_greeting.txt
+
+Hello I am Erin Snyder, acting as a student.
